@@ -1,8 +1,11 @@
 <h1 align="center">Hey, I'm Archit 👋</h1>
 
 <p align="center">
-  Mathematics (Co-op) @ University of Waterloo<br>
-  Building serverless backends and cloud infrastructure on AWS
+  Mathematics (Co-op) @ University of Waterloo
+
+  Software developer interested in building scalable backend systems, developer tools, and cloud-powered applications.
+
+  I enjoy working across the software development stack, from designing APIs and writing application logic to deploying and managing infrastructure.
 </p>
 
 <p align="center">
