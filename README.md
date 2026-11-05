@@ -16,21 +16,6 @@
 
 ---
 
-## 🚀 What I do
-
-- Spent 8 months as an **AWS Developer at CGI**, shipping production Lambda/API Gateway services in a serverless environment and earning the **Co-op of the Term Award**
-- Modernized legacy Node.js code to async/await and structured logging across 15+ components while keeping 90%+ unit test coverage
-- Test what I build: Postman, JMeter load tests, and failure scenarios
-- Infrastructure as code with **Terraform** and AWS CDK
-
-## 📌 Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [AWS Architecture Analysis & Migration Advisor](https://github.com/nagariyaarchit/AWS-Architecture-Analysis-Migration-Advisor) | Side project I'm actively building to analyze AWS architectures and advise on migration | AWS |
-| Serverless Task Manager API | CRUD API with staged environments, scaling on demand with no fixed servers | Terraform, Lambda, API Gateway, DynamoDB |
-| Terraform EC2 + VPC Deployment | Modular network and compute setup with isolated dev/prod state | Terraform, AWS |
-
 ## 🏅 Certifications
 
 ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat)
@@ -73,17 +58,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-<!--
-**nagariyaarchit/nagariyaarchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently building
+| [AWS Architecture Analysis & Migration Advisor](https://github.com/nagariyaarchit/AWS-Architecture-Analysis-Migration-Advisor) | An AWS-focused tool that checks whether a codebase’s real architecture matches what a developer claims, then produces a data-backed Lambda ↔ EC2 migration recommendation (with real costs), leaving the final call to you. | Python + tree-sitter + AWS Pricing API + gemini (google-genai) + python-dotenv |
 
-Here are some ideas to get you started:
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Stack |
+|---|---|---|
+| [Serverless Task Manager API](https://github.com/nagariyaarchit/serverless-task-api) | CRUD API with staged environments, scaling on demand with no fixed servers | Terraform, Lambda, API Gateway, DynamoDB |
+| [Terraform EC2 + VPC Deployment](https://github.com/nagariyaarchit/aws-ec2-web-server-terraform) | Modular network and compute setup with isolated dev/prod state | Terraform, AWS |
